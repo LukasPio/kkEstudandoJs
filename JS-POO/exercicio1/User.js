@@ -13,7 +13,7 @@ class User {
     }
   }
   
-  const lucasPio = new User('Lucas Pio', 'lucaspio.galvao@gmail.com', '&Redinh0$')
+  const lucasPio = new User('Lucas Pio', 'lucaspio.galvao@gmail.com', 'senha1234')
   
   const randomUser = new User('Jorge', 'jorgehenrique.pimba@gmail.com', 'senha123')
   
